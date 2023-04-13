@@ -58,9 +58,6 @@ I am always curious emerging and trends
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
 </p>
 
-<h3>Statistics</h3>
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk0821&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk0821&layout=compact)](https://github.com/kk0821/github-readme-stats)
 
 ---
